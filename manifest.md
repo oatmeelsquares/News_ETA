@@ -39,7 +39,7 @@ File: helper.py
 Purpose: Defines a wrapper class `MyDB` for easy manipulation of SQLite databases, and a helper function to pretty print all relevant dataframes of a given form.
 
 ## Sentiment Lexicon
-File: sales_nrc.cev
+File: sales_nrc.csv
 
 Purpose: Used to apply sentiments to terms for F5. From the NRC Word-Emotion Association Lexicon (aka EmoLex).
 
