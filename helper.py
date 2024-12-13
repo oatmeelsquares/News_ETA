@@ -1,3 +1,8 @@
+###########################################################################
+# News ETA: Helper module                                                 #
+# Becky Desrosiers | rn7ena@virginia.edu | DS5001 F24 | 13 December, 2024 #
+###########################################################################
+
 import pandas as pd
 import sqlite3
 
