@@ -26,7 +26,7 @@ Format: (zipped) CSV with columns
 ## Project report
 File: [rn7ena_news_report.pdf](https://github.com/oatmeelsquares/News_ETA/blob/main/rn7ena_news_report.pdf)
 
-Purpose: Provide a high-level overview of results and what I learned from this project.
+Purpose: Provide a high-level summary of results and what I learned from this project.
 
 ## Text processing
 File: [rn7ena_news_processing.ipynb](https://github.com/oatmeelsquares/News_ETA/blob/main/rn7ena_news_processing.ipynb)
