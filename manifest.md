@@ -9,7 +9,7 @@ In partial fulfillment of the requirements of DS5001: Exploratory Text Analytics
 ## Source data
 File: newzy.zip
 
-Obtained from: Rafael Alvarado
+Obtained from: Professor Rafael Alvarado
 
 Location: https://virginia.app.box.com/s/bj8f1khrkfd6thm9umq35m6xp2an4zej/file/624341579635
 
@@ -24,26 +24,26 @@ Format: (zipped) CSV with columns
         - doc_url
         
 ## Text processing
-File: rn7ena_news_processing.ipynb
+File: [rn7ena_news_processing.ipynb](https://github.com/oatmeelsquares/News_ETA/blob/main/rn7ena_news_processing.ipynb)
 
 Purpose: Produce data in all tables F2 through F5, save as SQLite databases.
 
 ## Exploratory Analysis
-File: rn7ena_news_eta.ipynb
+File: [rn7ena_news_eta.ipynb](https://github.com/oatmeelsquares/News_ETA/blob/main/rn7ena_news_eta.ipynb)
 
 Purpose: Explore the tables using statistical and visual analysis.
 
 ## Helper module
-File: helper.py
+File: [helper.py](https://github.com/oatmeelsquares/News_ETA/blob/main/helper.py)
 
 Purpose: Defines a wrapper class `MyDB` for easy manipulation of SQLite databases, and a helper function to pretty print all relevant dataframes of a given form.
 
 ## Sentiment Lexicon
-File: sales_nrc.csv
+File: [sales_nrc.csv](https://github.com/oatmeelsquares/News_ETA/blob/main/salex_nrc.csv)
 
 Purpose: Used to apply sentiments to terms for F5. From the NRC Word-Emotion Association Lexicon (aka EmoLex).
 
-Obtained from: Raf Alvarado
+Obtained from: Professor Rafael Alvarado
 
 ## Word2Vec model
 File: word2vec.model
@@ -51,7 +51,7 @@ File: word2vec.model
 Purpose: Saves vectorized vocabulary along with convenience methods for semantic algebra and other analysis.
 
 ## F2 through F5 data tables
-Directory: tables
+Directory: tables (tables.zip)
 
 Format: SQLite and CSV
 
