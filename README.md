@@ -17,12 +17,12 @@ Description: A collection of 1,026,347 snippets from American news articles dati
 
 Format: (zipped) CSV with columns
 
-        - doc_id
-        - doc_source
-        - doc_title
-        - doc_content
-        - doc_date
-        - doc_url
+- doc_id
+- doc_source
+- doc_title
+- doc_content
+- doc_date
+- doc_url
 
 ## Project report
 File: [rn7ena_news_report.pdf](https://github.com/oatmeelsquares/News_ETA/blob/main/rn7ena_news_report.pdf)
