@@ -16,6 +16,7 @@ Location: https://virginia.app.box.com/s/bj8f1khrkfd6thm9umq35m6xp2an4zej/file/6
 Description: A collection of 1,026,347 snippets from American news articles dating November 05, 2013 to February 27, 2020. Articles are gathered from a range of 16 different sources, from CNN to Fox. Due to time and computation constraints, 10,000 documents were randomly sampled with seed = 5001 to be used for analysis.
 
 Format: (zipped) CSV with columns
+
         - doc_id
         - doc_source
         - doc_title
